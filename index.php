@@ -1,6 +1,8 @@
-<?php/*
+<?php
+/*
 Template Name: ブログ
-*/?>
+*/
+?>
 
 <?php get_header(); ?>
 

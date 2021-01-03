@@ -1,6 +1,8 @@
-<?php/*
+<?php
+/*
 Template Name: 診療内容
-*/?>
+*/
+?>
 
 <?php get_header(); ?>
 
