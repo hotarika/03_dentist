@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*
+Theme Name: dentist
+Description: 歯医者のテーマです
+Author: horikawa
+*/
+
+/* --------------------------------
+ * Foundation
+ * -------------------------------- */
+@import url("css/foundation/normalize.css");
+@import url("css/foundation/base.css");
+
+/* --------------------------------
+ * Layout
+ * -------------------------------- */
+@import url("css/layout/layout.css");
+
+/* --------------------------------
+ * Object
+ * -------------------------------- */
+@import url("css/object/component.css");
+@import url("css/object/project.css");
+@import url("css/object/utility.css");
