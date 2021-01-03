@@ -1,6 +1,8 @@
-<?php/*
+<?php
+/*
 Template Name: ホーム
-*/?>
+*/
+?>
 
 <?php get_header(); ?>
 
