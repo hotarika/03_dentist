@@ -1,11 +1,12 @@
-# WordPress の学習（歯医者 HP） #3
+# WordPress の学習（歯医者 HP）
 
 WordPress の自作テーマをコーディングから PHP の適用まで、最初から作成しました。（テーマの使用なし）
 
 ## デモページ
 
 [デモページはこちら](https://created-portfolio.com/dentist/)<br>
-[WordPress 全体のデザインをご覧になりたい方はこちら](https://created-portfolio.com/detail/wordpress.html)
+
+![dentist-all-pages-1](https://user-images.githubusercontent.com/61940526/108977440-e194dc00-76cb-11eb-8d7c-e932b26d18b0.png)
 
 ## 機能・画面（歯医者 HP）
 
